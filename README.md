@@ -1,4 +1,4 @@
-# CV-Skills ( for my professionals experiences, look at my linkedin ! ) 
+# CV-Skills ( for my full professionals experiences, look at my linkedin ! ) 
 
 Professional Presentation
 
