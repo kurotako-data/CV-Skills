@@ -1,0 +1,54 @@
+Certification Project
+Data Analysis and Sales Optimization of a Website
+* Data Processing: Utilized Pandas and NumPy to manage large volumes of data, ensuring efficient handling and analysis.
+* Data Visualization: Explored and presented using Matplotlib, Seaborn, and Plotly, effectively communicating insights through visual representations.
+* Data Preprocessing: Applied techniques for managing missing values, encoding categorical variables, and normalization to prepare data for analysis.
+* Machine Learning: Compared and evaluated classification, regression, and clustering algorithms using Scikit-Learn to determine the most effective models.
+* Tools: Used Jupyter and Google Colab Notebook, final report on StreamLit, enabling seamless collaboration and presentation.
+* Results: Achieved a +15% increase in conversions after implementing insights from the analysis, demonstrating the impact of data-driven decision-making.
+* Presentation: Delivered an oral presentation to a jury at DataScientest / MINES ParisTech (April 29, 2024), showcasing the project’s success and methodologies.
+
+Professional Experience
+PARADISE PRODUCTS BV (Amsterdam, Netherlands)
+Commercial Strategy Consultant (Full remote)   04/2018 - 06/2024
+* Optimized commercial processes using HubSpot, leveraging data analytics to increase direct orders by 60% through a Kanban view sales pipeline.
+* Designed and implemented sales strategies based on market data analysis, leading to a €250K annual revenue increase after 30 months.
+* Conducted market research and competitive intelligence to identify growth opportunities in the European seed market.
+* Managed and trained a team of 2 people, applying strong leadership and communication skills to enhance team performance.
+* Created conversational sales guides: customer satisfaction increased by 150%, demonstrating the effectiveness of data-driven sales strategies.
+* Over 6 years, achieved a cumulative turnover of €900K from zero, highlighting the long-term impact of strategic data analysis.
+
+FLORATEK (Poitiers, France)
+Business Development Manager (Full remote)   06/2016 - 05/2018
+* Analyzed sales data and market trends for business decisions, applying predictive analytics to forecast market demands.
+* Used Excel and Numbers for competitive analysis and sales reporting in the horticulture market, providing actionable insights to drive sales strategies.
+* Developed B2B sales: exceptional level achieved in 1 year (annual turnover exceeding €1M), supported by data-driven decision-making.
+* Managed client relationships and reporting: increased client base by 40%, utilizing CRM tools to enhance customer engagement and retention.
+Certifications
+Data Analyst - MINES ParisTech / DataScienTest   09/2023 -06/2024 
+* Analyzed data with dimensionality reduction, text data analysis, and web scraping.
+* Trained a supervised machine learning model.
+* Designed data visualizations and queried databases with SQL and Looker Studio.
+* Created data reports with Tableau and automated processes with Make.
+* Competency Block: "Developing an Artificial Intelligence Solution" registered with RNCP Block No. RNCP36129BC03 / AI Project Manager.
+Education
+Science Po - CPAG   09/1995 - 06/1996
+* General Culture, Economic Policy, In-depth Economics, and Contemporary World Issues.
+
+Bachelor's Degree in Economics - AES, specializing in Local Development 09/1991 - 06/1994
+* Macroeconomics, Microeconomics, Management, Statistics.
+Technical Skills
+Hard skills : * Data Analysis: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly
+* Machine Learning: Classification, Regression, Clustering
+* Programming Tools: Python, SQL, Jupyter, Google Colab Notebooks
+* Data Visualization: Tableau, Excel
+* CRM: HubSpot
+ Soft skills : * Analytical and synthesis skills: Applied in developing data-driven strategies that align with business objectives.
+* Rigor, responsiveness, organizational skills: Demonstrated in managing multiple projects simultaneously while maintaining high standards.
+* Communication and writing skills: Proven through effective collaboration with cross-functional teams and clear presentation of data insights.
+* Team management: Experienced in leading small teams to achieve collective goals through data-driven decision-making.
+
+Languages
+English 
+* B2 level (9 years of experience using Business English in international settings, including daily communication with Dutch companies).
+French, Native language.
