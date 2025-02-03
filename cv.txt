@@ -1,90 +1,104 @@
+Patrice Giardino
+Strategy & Business Manager
+11 ans d’expérience en Croissance stratégique | Optimisation | Excellence commerciale
++1 million d’euros généré pour chacune de mes deux dernières missions
+
+kurotako.data@proton.me | linkedin.com/in/patrice-giardino | github.com/kurotako-data
+
 Résumé :
-Débuts dans la data en 1997 complété par une carrière commerciale / stratégie et depuis 2013, j’accompagne les entreprises dans des objectifs d'optimisation et de robustesse.
-Je sais détecter et générer des révélateurs majeurs pour prendre des décisions éclairées afin d’améliorer la performance opérationnelle. Mes expériences commerciales et savoirs-faire techniques (Python, SQL, Excel, Numbers, Tableau, Growth Hacking) apportent des éléments décisifs dans un contexte complexe.
+
+Profil stratégique, I.A et business-oriented, je transforme les données et analyses en leviers de croissance pour les entreprises. Avec une carrière débutée dans la data en 1997 et enrichie par plus d’une décennie d’expérience en stratégie commerciale, je conçois et pilote des initiatives génératrices de valeur. Mes compétences techniques (Python, SQL, Tableau, Growth Hacking, Intelligence Artificielle) et ma maîtrise des dynamiques business me permettent de proposer des solutions concrètes et performantes dans des environnements complexes et compétitifs.
 
 Mad Skills :
-Des compétences atypiques qui enrichissent mon approche en Business Data Analysis.
 
+Des compétences atypiques qui enrichissent mon parcours :
 Créativité et Visuel : Expériences d’écrivain et photographe (3 expositions, 2 livres publiés) pour une communication claire et visuelle des insights.
 Esprit Entrepreneurial : Création d’une maison d’édition (2015) et gestion d’une boutique physique et en ligne (2002-2013), renforçant mes compétences en stratégie et autonomie de projet.
-Adaptabilité : Un parcours varié qui m’a appris à m’adapter rapidement et à relever des défis dans des contextes multiples.
+Adaptabilité : Depuis 1997, un parcours varié de la création de projets à l’échelle entrepreneuriale jusqu’à la gestion de stratégies à l’échelle européenne. Veuillez consulter ma page LinkedIn pour l’historique.
 
-Projets :
+Projets, Initiatives Stratégiques et Business :
 
 Analyse et optimisation des Ventes d'un Site Web | 09/2023 - 06/2024
-Pilotage et présentation du projet devant jury pour la certification Data Analyst - MINES ParisTech.
-Traitement, analyse pour identifier des leviers d'amélioration et optimiser les conversions.
-Manipulation de grands volumes de données (Pandas, NumPy) et création de visualisations claires avec Matplotlib, Seaborn, Plotly pour communiquer les résultats sur Streamlit.
+Piloter, présenter le projet devant jury pour la certification Data Analyst - MINES ParisTech.
+Traiter, analyser pour identifier des leviers stratégiques, optimiser les conversions.
+Manipuler de grands volumes de données (Pandas, NumPy), créer des visualisations percutantes (Matplotlib, Seaborn, Plotly), communiquer les résultats (Streamlit).
 Pré-traitement des données : gestion des valeurs manquantes, encodage des variables.
-Évaluation de modèles de Machine Learning (classification, régression, clustering) avec Scikit-Learn pour identifier les plus performants.
+Évaluer des modèles de Machine Learning (Scikit-Learn) pour identifier les plus performants.
 Résultat : Augmentation de 15 % des conversions après la mise en œuvre des recommandations.
 
-Réalisation de mon portfolio Data ( en cours )
-conception du site en HTML :  kurotako-data.github.io/
-1er projet : Mise en ligne du projet de certification D.A (Analyse et optimisation des Ventes d'un Site Web)
-2ème projet : Le cas d’école du Titanic revisité sous l’angle de la langue, en particulier l’anglais. Son rôle dans la compréhension des instructions d’évacuation et donc de la survie, une langue bien moins répandue à l'époque qu’aujourd’hui. (Python, SkLearn, Matplotlib, Seaborn, Streamlit)
-3ème projet : Avec SQL (MySQL en local) pour les performance commerciale d’un commerce de musique
-4ème projet en cours (SQL)
+Réalisation de mon portfolio Data (en cours)
 
-Conduite du changement pour l’adoption d’un CRM et processus digitalisé | 04/2018 - 06/2024
-Contexte : Mise en œuvre d'une nouvelle solution CRM au sein de l'organisation européenne de Paradise Products pour une refonte complète des processus internes de gestion clients / ventes.
-Objectifs : Améliorer la fluidité des opérations et augmenter la satisfaction client en instaurant un nouveau système plus agile et digitalisé.
-Méthodologie : Data Cleaning, Application des méthodes agiles pour le déploiement progressif de la solution, en impliquant les utilisateurs finaux dès le début via des ateliers d’UX design et en recueillant leurs feedbacks à chaque étape clé. Stratégie de formation continue pour l'adoption par 4 personnes.
+conception du site GitHub Pages en HTML :  kurotako-data.github.io/ (contient actuellement 7 projets)
+Optimisation commerciale : Analyse des ventes d’un site web, aboutissant à une augmentation de 15 % des conversions grâce à des recommandations stratégiques et des insights visuels clairs.
+Insights innovants : Étude exploratoire des données (ex. : Projet Crédits Carbone), démontrant une maîtrise des outils analytiques avancés et leur application à des problématiques décisionnelles. (Python, SkLearn, Matplotlib, Seaborn, Streamlit)
+Performances business : Analyse SQL (MySQL en local) des ventes d’un commerce de musique pour identifier les produits à fort potentiel et optimiser les ressources. 
+Conduire une transformation organisationnelle et adoption d’un CRM | 04/2018 - 06/2024
+Contexte : Mise en œuvre d'une nouvelle solution CRM pour Paradise Products Europe avec une refonte complète des processus internes de gestion clients pour renforcer l’efficacité commerciale
+Objectifs : Améliorer la fluidité des opérations, augmenter la satisfaction client.
+Méthodologie : Data Cleaning, application des méthodes agiles pour le déploiement progressif de la solution en impliquant les utilisateurs (ateliers d’UX design) en recueillant leurs feedbacks à chaque étape.  Formation continue pour l'adoption par 4 personnes.
 Résultats : Efficience accrue des processus internes, réduction des coûts. Adoption réussie de la nouvelle solution, +150 % de la satisfaction client et +60 % des commandes directes en 18 mois.
 
 Compétences Techniques :
 
 Hard skills :
-Analyse de données : Pandas, NumPy, Scikit-Learn 
-Machine Learning : Classification, Régression, Clustering
-Programmation : Python, SQL
-Visualisation de données : Tableau, Excel, Matplotlib, Seaborn, Plotly
-Gestion de projet, Méthodes Agiles, Reporting
-Outils : Jupyter, MySQL, GitHub, Streamlit, CRM HubSpot
-GenAI : Notion, Make, Obsidian
-Growth Hacking
+
+Analyse de données et pilotage stratégique : Python (Pandas, NumPy), SQL, Tableau, Excel.
+Modélisation : Classification, régression, clustering avec Scikit-Learn.
+Visualisation et storytelling data : Tableau, Excel, Matplotlib, Seaborn, Plotly
+Gestion de projet, Méthodes Agiles, Reporting stratégique, Outils d’Intelligence Artificielle
+Outils : Jupyter, MySQL, GitHub, Streamlit, CRM HubSpot, Notion, Make, Obsidian, ChatGPT
+Growth Hacking : Techniques avancées pour la croissance commerciale
 
 Soft skills :
-Analyse critique, développement de stratégies data-driven alignées sur des objectifs commerciaux.
+
+Esprit analytique : Élaboration de stratégies data-driven alignées avec des objectifs commerciaux
 Rigueur et organisation : Gestion de projets multiples avec des standards d'excellence.
-Communication : Collaboration transversale et présentation claire des insights issus des données.
-Management : Direction de petites équipes (2 à 6 personnes) sur les 2 dernières missions
+Communication : Présentation claire d’insights complexes et collaboration transversale
+Management : Direction d'équipes de 2 à 6 personnes sur les dernières missions
 
-Expériences Professionnelles :
+Expérience Professionnelle :
 
-Analyste de données et de marché | Intelligence économique (à distance) | 04/2018 - actuellement
+Consultant développement | Intelligence économique (à distance) | 04/2018 - actuellement
+
 Kurotako Data - Indépendant (Marseille, Lyon)
-Accompagnement d’entreprises pour une stratégie solide et Growth Hacking.
-Soutien au développement, au positionnement (études de marché, veille économique, OSINT).
-Réalisation d'analyses d’indicateurs clés(Python, MySQL,Tableau), identification de fortes opportunités, facilitation de partenariats stratégiques.	
+
+Accompagner les entreprises pour une stratégie solide, améliorer et optimiser leur positionnement.
+Identifier des opportunités à forte valeur ajoutée, les transformer en actions commerciales
+Fournir des analyses détaillées, des insights cruciaux en exploitant les données pour guider la prise de décision et favoriser la croissance (études de marché, veille économique).
+Réalisation d'analyses d’indicateurs clés (Python, MySQL,Tableau), campagnes de Growth Hacking, utilisation de techniques d’OSINT et d’Intelligence Artificielle.
 Résultat lors des 2 dernières missions : + 1 million d’euros de C.A chacune.
 
-Business Data Analyst | Stratégie commerciale (à distance) | 04/2018 - 06/2024
+Consultant développement | Stratégie & Insights (à distance) | 04/2018 - 06/2024
+
 PARADISE Products BV (AgriTech) (Amsterdam, Pays-Bas)
-Diriger le projet de développement : market-entry, étude de marché et ventes au niveau européen.
-Analyser et suivre les indicateurs clés de performance commerciale (MySQL)
-Réaliser les actions de Data Quality du CRM HubSpot (330 grands comptes clients BtB).
-Amélioration des processus commerciaux grâce à une approche data-driven (Excel, Google Suite)
-Mise en place d’une pipeline de vente Kanban via HubSpot, hausse de 60 % en commandes directes.
-Management d’une équipe de 4 commerciaux et administratifs, amélioration mesurée de 150 % de la satisfaction client.
-Résultat :  C.A cumulé sur 6 ans = 1 million d'euros (0€ en 2018), illustrant l’impact de l’analyse stratégique sur les performances commerciales.
+
+Développer et piloter des stratégies commerciales sur le marché européen, optimiser les processus commerciaux et la relation clients.
+Déployer un CRM efficace, suivre les performances commerciales, améliorer la qualité des données pour 330 grands comptes B2B, former l’équipe aux nouveaux outils.
+Mettre en place le CRM HubSpot, suivre les KPI, gérer la qualité des données (MySQL, Excel, Google Suite), installer une pipeline de ventes en Kanban, manager les commerciaux.
+Résultat : Augmentation de 60 % des commandes directes en 18 mois, amélioration de la satisfaction client de 150 %, génération de 1 million d’euros de CA cumulé sur 6 ans.
 
 Responsable développement commercial (à distance) | 06/2016 - 05/2018
+
 FLORATEK (AgriTech) (Poitiers, France)
-Etude du marché (Excel, Numbers) pour anticiper les besoins et développer les ventes B2B.
-Analyses sur Sage CRM pour anticiper les demandes, améliorant l’engagement et la fidélisation.
-Résultat : Chiffre d'affaires B2B supérieur à 1 million d'euros en un an, augmentation de 40 % de la taille du fichier client (120 clients BtB au final).
+
+Elargir le portefeuille B2B et anticiper les besoins du marché pour augmenter le chiffre d’affaires.
+Développer des stratégies commerciales, effectuer des analyses de marché pour comprendre les besoins clients, améliorer l’engagement, accroître la fidélisation et maximiser les ventes B2B
+Produire des études de marché BtB / BtC (Excel, Numbers), gérer la relation client (Sage CRM). Mettre en place des stratégies de fidélisation et d'actions commerciales ciblées.
+Résultat : Augmentation du chiffre d’affaires B2B de plus de 1 million d’euros en un an, croissance de 40 % du portefeuille client, atteignant 120 clients B2B.
 
 Certification :
+
 Data Analyst 
 MINES ParisTech / DataScientest | 09/2023 - 06/2024
-Développement de compétences avancées en analyse de données, machine learning et intelligence artificielle. 
+
+Développement de compétences avancées en analyse de données, ML et intelligence artificielle. 
 Application de méthodes d'analyse (réduction de dimension, analyse textuelle, scraping) et conception de modèles de machine learning et rapports automatisés. 
 Utilisation de SQL et Looker Studio pour interroger des bases de données, création de visualisations avec Tableau et automatisation de processus avec Make. 
 Entraînement de modèles supervisés pour résoudre des problèmes prédictifs et développement d'une solution IA dans le cadre du bloc Chef de projet IA (RNCP36129BC03).
 Résultat : Expertise renforcée en analyse de données, automatisation et IA.
 
 Formation :
+
 CPAG 
 Institut d’études politiques (Aix-en-Provence) | 09/1995 - 06/1996
 Culture générale, notes de synthèse, économie politique, enjeux et débats du monde contemporain
@@ -95,4 +109,5 @@ Macro et microéconomie, gestion, statistiques, développement local
 
 Langues :
 Anglais  : B2 level (9 ans d'expérience dans l'utilisation de l'anglais des affaires dans des environnements internationaux, incluant la communication quotidienne avec des entreprises néerlandaises).
+
 Français, langue natale
